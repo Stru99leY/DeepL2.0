@@ -1,7 +1,3 @@
 {
     "commentTranslate.targetLanguage": "zh-CN",
-    "http.proxy": "127.0.0.1:7890",
-    "https.proxy": "127.0.0.1:7890",
-    "http.proxyStrictSSL": false
-
 }
